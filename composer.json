@@ -1,0 +1,19 @@
+{
+    "name": "insectum/helpers",
+    "description": "",
+    "authors": [
+        {
+            "name": "Volodymyr Kornilov",
+            "email": "mail@terion.name"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "psr-0": {
+            "Insectum\\Helpers": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
